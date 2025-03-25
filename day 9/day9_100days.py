@@ -19,3 +19,5 @@ elif year > 1994 and year < 2010:
     print("You are a part of Generation Z")
 else:
     print("You are a part of Generation Alpha")
+
+
